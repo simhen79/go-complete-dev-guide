@@ -1,0 +1,11 @@
+go 1.20
+
+use cards
+use odds
+use structs
+use maps
+use interfaces
+use interfaces_http
+use shapes
+use file
+use channels
